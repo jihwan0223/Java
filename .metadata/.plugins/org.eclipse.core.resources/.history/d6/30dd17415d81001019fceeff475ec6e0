@@ -1,0 +1,17 @@
+package sec03.exam06;
+
+public class OperationsPromitionExample {
+
+	public static void main(String[] args) {
+		int intVlaue5 = 10;
+		//int intVlaue6 = 10 / 4.0;
+		double doubleValue = intVlaue5 / 4.0;
+		System.out.println(doubleVlaue);
+		
+		int x = 1;
+		int y = 2;
+		double result = (double) x / y;
+		System.out.println(result);
+	}
+
+}
