@@ -1,9 +1,0 @@
-package sec03.exam05;
-
-public class OperationsPromitionExample {
-
-	public static void main(String[] args) {
-		byte byteValue1 = 10;
-	}
-
-}
