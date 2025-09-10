@@ -1,0 +1,19 @@
+package cote.exam2753;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) throws Exception{
+		Scanner scanner = new Scanner(System.in);
+		 int num = scanner.nextInt();
+		 //int num2 = scanner.nextInt();
+		 
+		 if(num % 4 == 0 && num % 100 != 0 || num % 400 == 0) {
+			 System.out.println("1");
+		 }
+		 else System.out.println("0");
+		scanner.close();
+	}
+
+}
