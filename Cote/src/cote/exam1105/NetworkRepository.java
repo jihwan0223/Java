@@ -1,0 +1,29 @@
+package cote.exam1105;
+
+public class NetworkRepository implements MemoRepository{
+
+	@Override
+	public void addMemo(String title, String body) {
+		System.out.println("PC에 메모를 추가합니다.");
+		
+	}
+
+	@Override
+	public void getMemo() {
+		System.out.println("PC에서 메모를 조회합니다.");
+		
+	}
+
+	@Override
+	public void deleteMemo(String id) {
+		System.out.println("PC의 메모를 삭제합니다.");
+		
+	}
+
+	@Override
+	public void updateMemo(String id, String body) {
+		System.out.println("PC의 메모를 업데이트합니다.");
+		
+	}
+	
+}
