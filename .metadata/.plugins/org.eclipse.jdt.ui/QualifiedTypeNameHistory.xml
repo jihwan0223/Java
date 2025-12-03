@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sec06.exam02.hyundai.Engine"/>
+    <fullyQualifiedTypeName name="sec06.exam02.hankook.hankookTire"/>
+    <fullyQualifiedTypeName name="sec06.exam02.kumho.Tire"/>
+    <fullyQualifiedTypeName name="java.net.FileNameMap"/>
+    <fullyQualifiedTypeName name="sec01.exam04.SuperSonicAirplane"/>
+    <fullyQualifiedTypeName name="sec01.exam07.pack1.A"/>
+    <fullyQualifiedTypeName name="sec01.exam03.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam04.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam04.Television"/>
+    <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
+    <fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
